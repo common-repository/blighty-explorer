@@ -1,0 +1,79 @@
+.bex-wrapper {
+	width: auto;
+	margin: 20px auto;
+	border-radius: 10px;
+	padding: 15px
+}
+
+.bex-cookietrail {
+    padding-bottom: 15px;
+}
+
+.bex-table {
+	display: table;
+	width: 100%;
+}
+
+.bex-header  {
+	display: table-header-group;
+	width:auto;
+	clear:both;
+	font-weight: bold;
+}
+
+.bex-row-0  {
+	display: table-row;
+	width:auto;
+	clear:both;
+}
+
+.bex-row-1  {
+	display: table-row;
+	width:auto;
+	clear:both;
+}
+
+.bex-row-0:hover, .bex-row-1:hover  {
+}
+
+.bex-cell {
+	display: table-cell;
+	width:auto;
+}
+
+.bex-cell-r {
+	display: table-cell;
+	width:auto;
+	text-align: right;
+}
+
+.bex-img {
+	margin-bottom: 1px;
+}
+
+.bex-upload-form {
+	display: block;
+	margin: 20px auto;
+	padding: 15px;
+}
+
+.bex-progress {
+	position: relative;
+	width: 400px;
+	border: 1px solid #000000;
+	padding: 0px;
+}
+
+.bex-bar {
+	background-color: #E7E7E7;
+	width:0%;
+	height:22px;
+	border-radius: 5px;
+}
+
+.bex-percent {
+	position: absolute;
+	display: inline-block;
+	top: 3px;
+	left: 48%;
+}
